@@ -4,6 +4,9 @@ mnexec
 *.1
 *.xcodeproj
 *.xcworkspace
+*venv/
+*/__pycache__/
+*.idea/
 \#*\#
 mininet.egg-info
 build
